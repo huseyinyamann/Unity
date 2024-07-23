@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - enemy
+  - SoundManager
+  - Wall
+  - CheckPoint1
+  - CheckPoint2
+  - FxTemporaire
+  - enemy1
+  - enemy2
+  - lasercontroller
+  - EffectManager
+  - Firepoint
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Enemy
+  - Enviroment
+  - 
+  - 
+  - Wall
+  - Laser
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background0
+    uniqueID: 1391519923
+    locked: 0
+  - name: Background1
+    uniqueID: 1777232851
+    locked: 0
+  - name: Player
+    uniqueID: 3617090647
+    locked: 0
+  - name: Stars
+    uniqueID: 3879982485
+    locked: 0
+  - name: Gun
+    uniqueID: 2929003821
+    locked: 0
+  - name: Enemy
+    uniqueID: 3524565855
+    locked: 0
+  - name: Wall
+    uniqueID: 2722980191
+    locked: 0
+  - name: Joystick
+    uniqueID: 3759464611
+    locked: 0
+  - name: Laser
+    uniqueID: 2491104233
+    locked: 0
